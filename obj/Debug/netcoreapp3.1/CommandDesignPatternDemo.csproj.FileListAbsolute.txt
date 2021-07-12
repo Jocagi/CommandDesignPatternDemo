@@ -1,0 +1,13 @@
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\bin\Debug\netcoreapp3.1\CommandDesignPatternDemo.exe
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\bin\Debug\netcoreapp3.1\CommandDesignPatternDemo.deps.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\bin\Debug\netcoreapp3.1\CommandDesignPatternDemo.runtimeconfig.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\bin\Debug\netcoreapp3.1\CommandDesignPatternDemo.runtimeconfig.dev.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\bin\Debug\netcoreapp3.1\CommandDesignPatternDemo.dll
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\bin\Debug\netcoreapp3.1\CommandDesignPatternDemo.pdb
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.AssemblyInfo.cs
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.dll
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.pdb
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\CommandDesignPatternDemo\obj\Debug\netcoreapp3.1\CommandDesignPatternDemo.genruntimeconfig.cache
